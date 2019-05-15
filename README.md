@@ -17,7 +17,7 @@ We release the 100-dimension word embeddings used in our experiments (English, S
 
 ### Reference paper
 
-If you use any of these resources, please cite the following [paper](https://arxiv.org/abs/1808.08780):
+If you use any of these resources, please cite the following [paper](XXX):
 ```bash
 @InProceedings{doval:meemiemnlp2018,
   author = 	"Doval, Yerai and Camacho-Collados, Jose and Espinosa-Anke, Luis and Schockaert, Steven",
