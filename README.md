@@ -19,10 +19,10 @@ We release the 100-dimension monolingual and cross-lingual word embeddings train
 
 If you use any of these resources, please cite the following [paper](XXX):
 ```bash
-@InProceedings{twitteremb19,
+@article{twitteremb19,
   author = 	"Camacho-Collados, Jose and Doval, Yerai and Mart\'{i}nez-C\'{a}mara, Eugenio and Espinosa-Anke, Luis and Barbieri, Francesco and Schockaert, Steven",
   title = 	"Learning Cross-lingual Embeddings from Twitter via Distant Supervision",
-  booktitle = 	"arXiV",
+  journal= "arXiv preprint arXiv:",
   year = 	"2019"
 }
 
