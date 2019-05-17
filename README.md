@@ -22,7 +22,7 @@ If you use any of these resources, please cite the following [paper](XXX):
 @article{twitteremb19,
   author = 	"Camacho-Collados, Jose and Doval, Yerai and Mart\'{i}nez-C\'{a}mara, Eugenio and Espinosa-Anke, Luis and Barbieri, Francesco and Schockaert, Steven",
   title = 	"Learning Cross-lingual Embeddings from Twitter via Distant Supervision",
-  journal= "arXiv preprint arXiv:",
+  journal = 	"arXiv preprint arXiv:",
   year = 	"2019"
 }
 
