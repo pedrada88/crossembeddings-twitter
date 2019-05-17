@@ -30,4 +30,4 @@ If you use any of these resources, please cite the following [paper](XXX):
 
 ```
 
-If you use [VecMap](https://github.com/artetxem/vecmap) or [MUSE](https://github.com/facebookresearch/MUSE), please also cite their corresponding papers.
+If you use [Fasttext](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00051) or [VecMap](https://aclweb.org/anthology/P18-1073), please also cite their corresponding papers.
