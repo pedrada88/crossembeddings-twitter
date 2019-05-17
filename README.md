@@ -28,6 +28,4 @@ If you use any of these resources, please cite the following [paper](XXX):
 
 ```
 
-Code coming soon.
-
 If you use [Fasttext](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00051) or [VecMap](https://aclweb.org/anthology/P18-1073), please also cite their corresponding papers.
