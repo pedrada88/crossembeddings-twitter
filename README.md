@@ -9,9 +9,9 @@ The following repository includes the pre-trained cross-lingual word embeddings 
 
 We release the 100-dimension monolingual and cross-lingual word embeddings trained on Twitter used in our experiments (English, Spanish, Italian, German and Farsi):
 
-- **Monolingual FastText embeddings**: Available [here](https://drive.google.com/drive/folders/1sQNZN4_2GRkK0Pb1pRJaOpM6Nh8yHJpX?usp=sharing)
-- **Baseline cross-lingual embeddings**: Available [here](https://drive.google.com/drive/folders/1Qq5_fC9kqWUA_YwP3SLPpjCB_KMNvxlB?usp=sharing)
-- **Cross-lingual embeddings post-processed with Plain and Weighted**: Available [here](https://drive.google.com/drive/folders/1q0SijS7dcPqN0_N3Ct5_GTKDu3N-_5xB?usp=sharing)
+- **Monolingual FastText embeddings**: Available [here](https://drive.google.com/drive/folders/1a9llDhoM6zD-sOKiM0AdSxDYq2-15PJD?usp=sharing)
+- **Cross-lingual embeddings post-processed with *plain* averaging**: Available [here](https://drive.google.com/drive/folders/1nuZLzGhStjflmi6hFK6a3qTSPFQfsC-K?usp=sharing)
+- **Cross-lingual embeddings post-processed with *weighted* averaging**: Available [here](https://drive.google.com/drive/folders/1JGNS2s8UwBM1itpMPDRi9wYqDgPBXcKf?usp=sharing)
 
 *Note 1:* All vocabulary words are lowercased.
 
