@@ -3,7 +3,7 @@
 The following repository includes the pre-trained cross-lingual word embeddings from the paper *[Learning Cross-lingual Embeddings from Twitter via Distant Supervision](XXX)*.
 
 
-### Pre-trained embeddings
+### Twitter pre-trained word embeddings
 
 We release the 100-dimension monolingual and cross-lingual word embeddings trained on Twitter used in our experiments (English, Spanish, Italian, German and Farsi):
 
