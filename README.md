@@ -11,7 +11,7 @@ We release the 100-dimension monolingual and cross-lingual word embeddings train
 - **Cross-lingual embeddings post-processed with *plain* averaging**: Available [here](https://drive.google.com/drive/folders/1nuZLzGhStjflmi6hFK6a3qTSPFQfsC-K?usp=sharing)
 - **Cross-lingual embeddings post-processed with *weighted* averaging**: Available [here](https://drive.google.com/drive/folders/1JGNS2s8UwBM1itpMPDRi9wYqDgPBXcKf?usp=sharing)
 
-*Note 1:* All vocabulary words are lowercased.
+*Note 1:* All words are lowercased.
 
 *Note 2:* If you would like to convert the vector txt files to *bin*, you can use [convertvec](https://github.com/marekrei/convertvec).
 
