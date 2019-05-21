@@ -1,6 +1,6 @@
 ## Cross-lingual word embeddings from Twitter
 
-The following repository includes the pre-trained cross-lingual word embeddings from the paper *[Learning Cross-lingual Embeddings from Twitter via Distant Supervision](XXX)*.
+The following repository includes the pre-trained cross-lingual word embeddings from the paper *[Learning Cross-lingual Embeddings from Twitter via Distant Supervision](https://arxiv.org/abs/1905.07358)*.
 
 
 ### Twitter pre-trained word embeddings
@@ -17,7 +17,7 @@ We release the 100-dimension monolingual and cross-lingual word embeddings train
 
 ### Reference paper
 
-If you use any of these resources, please cite the following [paper](XXX):
+If you use any of these resources, please cite the following [paper](https://arxiv.org/abs/1905.07358):
 ```bash
 @article{twitteremb19,
   author = 	"Camacho-Collados, Jose and Doval, Yerai and Mart\'{i}nez-C\'{a}mara, Eugenio and Espinosa-Anke, Luis and Barbieri, Francesco and Schockaert, Steven",
