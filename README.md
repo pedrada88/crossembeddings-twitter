@@ -13,7 +13,9 @@ We release the 100-dimension monolingual and cross-lingual word embeddings train
 
 *Note 1:* All words are lowercased.
 
-*Note 2:* If you would like to convert the vector txt files to *bin*, you can use [convertvec](https://github.com/marekrei/convertvec).
+*Note 2:* All emoji have been unified into a single neutral encoding across languages (no skin modifiers).
+
+*Note 3:* If you would like to convert the vector txt files to *bin*, you can use [convertvec](https://github.com/marekrei/convertvec).
 
 ### Reference paper
 
