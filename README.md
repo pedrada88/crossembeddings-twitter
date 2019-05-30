@@ -11,11 +11,11 @@ We release the 100-dimension monolingual and cross-lingual word embeddings train
 - **Cross-lingual embeddings post-processed with *plain* averaging**: Available [here](https://drive.google.com/drive/folders/1nuZLzGhStjflmi6hFK6a3qTSPFQfsC-K?usp=sharing)
 - **Cross-lingual embeddings post-processed with *weighted* averaging**: Available [here](https://drive.google.com/drive/folders/1JGNS2s8UwBM1itpMPDRi9wYqDgPBXcKf?usp=sharing)
 
+**Update!**: Embeddings for Japanese now also available.
+
 *Note 1:* All words are lowercased.
 
-*Note 2:* All emoji have been unified into a single neutral encoding across languages (no skin modifiers).
-
-*Note 3:* If you need to convert the vector *txt* files to *bin*, you can use [convertvec](https://github.com/marekrei/convertvec).
+*Note 2:* All emoji have been unified into a single neutral encoding across languages (no skin tone modifiers).
 
 ### Reference paper
 
@@ -29,5 +29,7 @@ If you use any of these resources, please cite the following [paper](https://arx
 }
 
 ```
+
+Full code coming soon.
 
 If you use [Fasttext](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00051) or [VecMap](https://aclweb.org/anthology/P18-1073), please also cite their corresponding papers.
