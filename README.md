@@ -15,7 +15,7 @@ We release the 100-dimension monolingual and cross-lingual word embeddings train
 
 *Note 1:* All words are lowercased.
 
-*Note 2:* All emoji have been unified into a single neutral encoding across languages (no skin tone modifiers).
+*Note 2:* All emoji have been unified into a single neutral encoding across languages (no skin tone modifiers). All Twitter users have been anonymized with *@user*.
 
 ### Reference paper
 
