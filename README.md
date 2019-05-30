@@ -11,7 +11,7 @@ We release the 100-dimension monolingual and cross-lingual word embeddings train
 - **Cross-lingual embeddings post-processed with *plain* averaging**: Available [here](https://drive.google.com/drive/folders/1nuZLzGhStjflmi6hFK6a3qTSPFQfsC-K?usp=sharing)
 - **Cross-lingual embeddings post-processed with *weighted* averaging**: Available [here](https://drive.google.com/drive/folders/1JGNS2s8UwBM1itpMPDRi9wYqDgPBXcKf?usp=sharing)
 
-**Update!**: Embeddings for Japanese now also available.
+**Update!** Embeddings for Japanese now also available.
 
 *Note 1:* All words are lowercased.
 
