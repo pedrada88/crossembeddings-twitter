@@ -26,7 +26,6 @@ If you use any of these resources, please cite the following [paper](https://arx
   title = 	"Learning Cross-lingual Embeddings from Twitter via Distant Supervision",
   booktitle = 	"Proceedings of ICWSM",
   location = 	"Atlanta, United States",
-  note =	"to appear",
   year = 	"2020"
 }
 
